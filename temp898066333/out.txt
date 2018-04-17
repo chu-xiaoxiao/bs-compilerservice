@@ -1,0 +1,1 @@
+[2m2018-04-13 20:44:33.077[0;39m [32m INFO[0;39m [35m16760[0;39m [2m---[0;39m [2m[trap-executor-0][0;39m [36mc.n.d.s.r.aws.ConfigClusterResolver     [0;39m [2m:[0;39m Resolving eureka endpoints via configuration
